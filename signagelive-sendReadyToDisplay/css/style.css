@@ -1,0 +1,51 @@
+html,
+body {
+    margin: 0;
+    overflow: hidden;
+    font-family: sans-serif;
+}
+
+#container {
+    width: 100vw;
+    height: 100vh;
+    color: #FFF;
+}
+
+h2 {
+    font-size: 2.8vw;
+    padding: 0 2.5vw;
+}
+
+#success {
+    position: absolute;
+    font-size: 3vw;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    height: 100%;
+}
+
+#left-hand {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 50vw;
+    height: 100vh;
+    background-color: #010;
+}
+
+#description {
+    font-size: 2.5vw;
+    padding: 0 2.5vw;
+    text-align: justify;
+}
+
+#right-hand {
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    width: 50vw;
+    height: 100vh;
+    background-color: #861b14;
+}

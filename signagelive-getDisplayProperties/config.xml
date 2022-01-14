@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<widget xmlns="http://www.w3.org/ns/widgets" xmlns:sl="http://www.signagelive.com/widgets" id="widget-sdk-gdp-0.0.0" version="0.0.0" width="1920" height="1080">
+    <name>Signagelive Widget SDK - getDisplayProperties</name>
+    <description>A simple widget example for the getDisplayProperties() widget method</description>
+    <author>Signagelive</author>
+    <content src="index.html"/>
+    <icon src="images/thumb.png" sl:thumbnail="large"/>
+</widget>
