@@ -14,6 +14,6 @@ window.addEventListener('widget-init', function (e) {
     }
 
     function hideText() {
-        textContainer.hidden = true;
+        textContainer.style.visibility = "hidden";
     }
 });
